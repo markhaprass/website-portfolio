@@ -1,0 +1,30 @@
+.jumbotron {
+    background: linear-gradient(0deg, rgb(0, 177, 195) 0%, rgb(164, 212, 160) 80%);
+    min-height: 600px;
+}
+
+.jumbotron img {
+    height: 200px;
+}
+.jumbotron h3 {
+    margin-left: 70px;
+    opacity: .9;
+}
+.jumbotron p {
+    margin-left: 70px;
+}
+footer {
+    margin-top: -32px;
+    min-height: 100px;
+    background: rgb(53, 54, 65);
+}
+table {
+    margin-top: 30px;
+    text-align: left;
+    background: linear-gradient(0deg, rgb(0, 177, 195) 0%, rgb(164, 212, 160) 80%);
+}
+hr {
+    border-width: 5px;
+    width: 150px;
+    background-color: black transparent;
+}
